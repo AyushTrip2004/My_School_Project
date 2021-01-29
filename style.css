@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+}
+
+.main-title{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.main-para{
+    background-color: yellow;
+    color: red;
+    width: 1245px;
+}
